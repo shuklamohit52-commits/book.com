@@ -1,0 +1,6 @@
+{
+  "name": "Book.com - Competitive Exams & Educational Books Wholesale Distributor",
+  "description": "Showcase catalog and bulk order quotation portal for Book.com, Lucknow wholesale distributor of competitive exams and educational books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
